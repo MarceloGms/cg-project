@@ -1,1 +1,1 @@
-# cg-project
+# computer graphics project using openFrameworks/openGL
